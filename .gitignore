@@ -1,3 +1,6 @@
-data/*
+
+localcode/*
 
 *.csv
+.ipynb_checkpoints/*
+.vscode/*

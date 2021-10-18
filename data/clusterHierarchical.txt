@@ -1,0 +1,29 @@
+[('indie', 48), ('house', 44), ('rock', 17), ('electronic', 17), ('deep', 14), ('pop', 12), ('trance', 11), ('japanese', 9), ('metal', 9), ('electro', 8)]
+
+
+
+[('pop', 197), ('rock', 142), ('indie', 127), ('classic', 47), ('folk', 40), ('musica', 31), ('soul', 24), ('country', 23), ('alternative', 20), ('blues', 19)]
+
+
+
+[('classical', 107), ('piano', 38), ('contemporary', 24), ('choir', 22), ('jazz', 19), ('italian', 16), ('orchestra', 14), ('soundtrack', 14), ('baroque', 14), ('performance', 13)]
+
+
+
+[('metal', 39), ('techno', 35), ('house', 23), ('black', 21), ('electronic', 20), ('deep', 15), ('trance', 14), ('post-rock', 11), ('minimal', 9), ('experimental', 9)]
+
+
+
+[('hip', 137), ('hop', 136), ('rap', 121), ('indie', 67), ('pop', 64), ('trap', 51), ('reggae', 27), ('rock', 20), ('deep', 20), ('funk', 19)]
+
+
+
+[('jazz', 43), ('folk', 34), ('pop', 25), ('traditional', 22), ('blues', 20), ('vintage', 20), ('musica', 10), ('comedy', 9), ('country', 9), ('classic', 9)]
+
+
+
+[('metal', 175), ('rock', 86), ('punk', 84), ('indie', 83), ('hardcore', 29), ('pop', 27), ('alternative', 18), ('power', 17), ('death', 17), ('german', 17)]
+show more (open the raw output data in a text editor) ...
+
+
+[('folk', 55), ('indie', 50), ('pop', 43), ('jazz', 38), ('musica', 28), ('rock', 19), ('classic', 15), ('singer-songwriter', 13), ('experimental', 12), ('japanese', 10)]
