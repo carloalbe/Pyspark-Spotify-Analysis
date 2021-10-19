@@ -1,6 +1,7 @@
 
 localcode/*
 
-*.csv
+tracks.csv
+artists.csv
 .ipynb_checkpoints/*
 .vscode/*
