@@ -1,0 +1,2 @@
+# Pyspark-Spotify-Analysis
+The project is developed on a two "csv" dataset available on the Kaggle platform. The data have been obtained by \textbf{Spotify}. Te main one, \textit{"track.csv"} the most important and largest, contains music tracks informations from a period of 100 years. The other one instead, \textit{"artist.csv}",contains a row for each artist. Basing on the suggestion of the dataset's author, we identified three main analysis to apply on the data : 
