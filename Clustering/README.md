@@ -705,7 +705,7 @@ sns.heatmap(corrMatrix,cmap=sns.color_palette("vlag", as_cmap=True),xticklabels=
 
 
     
-![png](output_17_1.png)
+![png](img/output_17_1.png)
     
 
 
@@ -767,7 +767,7 @@ plt.show()
 
 
     
-![png](output_21_0.png)
+![png](img/output_21_0.png)
     
 
 
@@ -819,7 +819,7 @@ plt.show()
 
 
     
-![png](output_25_0.png)
+![png](img/output_25_0.png)
     
 
 
